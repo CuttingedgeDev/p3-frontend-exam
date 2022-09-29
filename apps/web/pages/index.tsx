@@ -22,9 +22,9 @@ export default function Index() {
 
         <Heading as="h2">Submission</Heading>
         <p>
-          Once completed, you may do the following:
+          Once completed, you may do one of the following:
           <br />
-          a. Create a public repository, and share final code here
+          a. Create a public repository, and share final code there
           <br />
           b. Zip the entire code, without `node_modules` and send it via email
         </p>
@@ -42,7 +42,7 @@ export default function Index() {
         <strong>Expectations:</strong>
         <ul>
           <li>The form field should be validated (empty check, limiting characters, up to you)</li>
-          <li>There's no need for a persistence, but rudimentary state management is required. Saving it in memory is completely fine, bonus points for local storage</li>
+          <li>There's no need for persistence, but rudimentary state management is required. Saving it in memory is completely fine, bonus points for local storage</li>
         </ul>
 
         <Heading as="h3">Task 2: Theme</Heading>
