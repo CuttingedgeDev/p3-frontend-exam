@@ -22,7 +22,11 @@ export default function Index() {
 
         <Heading as="h2">Submission</Heading>
         <p>
-          Fork this sandbox, and continue editing from there. Once completed, please send the completed task URL to whomever sent this challenge to you.
+          Once completed, you may do the following:
+          <br />
+          a. Create a public repository, and share final code here
+          <br />
+          b. Zip the entire code, without `node_modules` and send it via email
         </p>
 
         <Heading as="h2">The Challenge</Heading>
